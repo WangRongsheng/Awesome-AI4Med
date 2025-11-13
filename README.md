@@ -33,7 +33,8 @@ Table of Contents:
 |`BioMistral`|[[arXiv](https://arxiv.org/abs/2402.10373)]|[[HF (7B)](https://huggingface.co/BioMistral/BioMistral-7B)]|-|[[Github](https://github.com/BioMistral/BioMistral)]|
 |`MediTron`|[[arXiv](https://arxiv.org/abs/2311.16079)]|[[HF (7B)](https://huggingface.co/epfl-llm/meditron-7b)]|[[HF](https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T)]|[[Github](https://github.com/epfLLM/meditron)]|
 |`MedGemma`|[[arXiv](https://arxiv.org/abs/2507.05201)]|[[HF (4B)](https://huggingface.co/google/medgemma-4b-it)]|-|[[Github](https://github.com/Google-Health/medgemma)]|
-
+|`Baichuan-M2`|[[arXiv](https://arxiv.org/abs/2509.02208)]|[[HF (32B)](https://huggingface.co/baichuan-inc/Baichuan-M2-32B)]|-|[[Github](https://github.com/baichuan-inc/Baichuan-M2-32B)]|
+|`Baichuan-M1`|[[arXiv](https://arxiv.org/abs/2502.12671)]|[[HF (14B)](https://huggingface.co/baichuan-inc/Baichuan-M1-14B-Instruct)]|-|[[Github](https://github.com/baichuan-inc/Baichuan-M1-14B)]|
 
 
 
@@ -43,6 +44,10 @@ Table of Contents:
 
 
 ## 2. Medical MLLMs
+
+|**Model Name**|**Paper**|**Model Weight**|**Data**|**Code**|
+|:-:|:-:|:-:|:-:|:-:|
+|`HuatuoGPT`|[[arXiv](https://arxiv.org/abs/2305.15075)]|[[HF (7B)](https://huggingface.co/FreedomIntelligence/HuatuoGPT-7B)]|[[HF](https://huggingface.co/datasets/FreedomIntelligence/HuatuoGPT-sft-data-v1)]|[[Github](https://github.com/FreedomIntelligence/HuatuoGPT)]|
 
 <div align="right">
   <b><a href="#contents">↥ back to top</a></b>
