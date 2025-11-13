@@ -3,7 +3,11 @@
 ![visitor](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/WangRongsheng/Awesome-AI4Med)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/WangRongsheng/Awesome-AI4Med)
 
-#### Quick Search Guide
+> [!NOTE]
+> Introduction
+
+> [!TIP]
+> Quick Search Guide
 
 Table of Contents:
 - [1. Medical LLMs](#1-medical-llms)
@@ -17,31 +21,9 @@ Table of Contents:
 
 ## 1. Medical LLMs
 
-<table style="border-collapse: collapse; width: 100%;">
-  <thead>
-    <tr style="background-color: #1f1f1f; color: #ffffff;">
-      <th style="padding: 10px; border: 1px solid #444; text-align: left;">Title</th>
-      <th style="padding: 10px; border: 1px solid #444; text-align: left;">Model</th>
-      <th style="padding: 10px; border: 1px solid #444; text-align: left;">Date</th>
-      <th style="padding: 10px; border: 1px solid #444; text-align: left;">Code</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr style="background-color: #ffffff;">
-      <td style="padding: 8px; border: 1px solid #ddd;">示例标题 A</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">gpt-5.1</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">2025-11-13</td>
-      <td style="padding: 8px; border: 1px solid #ddd;"><code>ABC123</code></td>
-    </tr>
-    <tr style="background-color: #f6f8fa;">
-      <td style="padding: 8px; border: 1px solid #ddd;">示例标题 B</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">gpt-4.1-mini</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">2025-11-12</td>
-      <td style="padding: 8px; border: 1px solid #ddd;"><code>XYZ789</code></td>
-    </tr>
-  </tbody>
-</table>
-
+|**Model Name**|**Paper**|**Model Weight**|**Data**|**Code**|
+|:-:|:-:|:-:|:-:|:-:|
+|HuatuoGPT|[[arXiv](https://arxiv.org/abs/2305.15075)]|[[HF (7B)](https://huggingface.co/FreedomIntelligence/HuatuoGPT-7B)]|[[HF](https://huggingface.co/datasets/FreedomIntelligence/HuatuoGPT-sft-data-v1)]|[[Github](https://github.com/FreedomIntelligence/HuatuoGPT)]|
 
 <div align="right">
   <b><a href="#contents">↥ back to top</a></b>
