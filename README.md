@@ -22,7 +22,7 @@ Table of Contents:
 ## 1. Medical LLMs
 
 |**Model Name**|**Paper**|**Model Weight**|**Data**|**Code**|
-|:-:|:-:|:-:|:-:|:-:|
+|:-|:-:|:-:|:-:|:-:|
 |`HuatuoGPT`|[[arXiv](https://arxiv.org/abs/2305.15075)]|[[HF (7B)](https://huggingface.co/FreedomIntelligence/HuatuoGPT-7B)]|[[HF](https://huggingface.co/datasets/FreedomIntelligence/HuatuoGPT-sft-data-v1)]|[[Github](https://github.com/FreedomIntelligence/HuatuoGPT)]|
 |`MMedLM`|[[arXiv](https://arxiv.org/abs/2402.13963)]|[[HF (8B)](https://huggingface.co/Henrychur/MMed-Llama-3-8B)]|[[HF](https://huggingface.co/datasets/Henrychur/MMedC)]|[[Github](https://github.com/MAGIC-AI4Med/MMedLM)]|
 |`PMC-LLaMA`|[[arXiv](https://arxiv.org/abs/2304.14454)]|[[HF (13B)](https://huggingface.co/axiong/PMC_LLaMA_13B)]|[[HF](https://github.com/allenai/s2orc)]|[[Github](https://github.com/chaoyi-wu/PMC-LLaMA)]|
@@ -46,7 +46,7 @@ Table of Contents:
 ## 2. Medical MLLMs
 
 |**Model Name**|**Paper**|**Model Weight**|**Data**|**Code**|
-|:-:|:-:|:-:|:-:|:-:|
+|:-|:-:|:-:|:-:|:-:|
 |`HuatuoGPT-Vision`|[[arXiv](https://arxiv.org/abs/2406.19280)]|[[HF (7B)](https://huggingface.co/FreedomIntelligence/HuatuoGPT-Vision-7B)][[HF 34B](https://huggingface.co/FreedomIntelligence/HuatuoGPT-Vision-34B)]|[[HF](https://huggingface.co/datasets/FreedomIntelligence/HuatuoGPT-sft-data-v1)]|[[Github](https://github.com/FreedomIntelligence/HuatuoGPT-Vision)]|
 |`Lingshu`|[[arXiv](https://arxiv.org/abs/2506.07044)]|[[HF (7B)](https://huggingface.co/lingshu-medical-mllm/Lingshu-7B)][[HF 32B](https://huggingface.co/lingshu-medical-mllm/Lingshu-32B)]|-|-|
 |`LLaVA-Med`|[[arXiv](https://arxiv.org/abs/2306.00890)]|[[HF (7B)](https://huggingface.co/microsoft/llava-med-v1.5-mistral-7b)]|[[Github](https://github.com/microsoft/LLaVA-Med/tree/main/data)]|[[Github](https://github.com/microsoft/LLaVA-Med)]|
@@ -61,7 +61,7 @@ Table of Contents:
 ### 3.1 Text
 
 |**Data Name**|**Paper**|**Link**|**Quantity**|
-|:-:|:-:|:-:|:-:|
+|:-|:-:|:-:|:-:|
 |`Huatuo-26M`|[[arXiv](https://arxiv.org/abs/2305.01526)]|[[Github](https://github.com/FreedomIntelligence/Huatuo-26M)]|26,000,000|
 |`medical-o1-reasoning-SFT`|[[arXiv](https://arxiv.org/pdf/2412.18925)]|[[HF](https://huggingface.co/datasets/FreedomIntelligence/medical-o1-reasoning-SFT)]|25,000|
 |`ReasonMed`|[[arXiv](https://arxiv.org/abs/2506.09513)]|[[HF](https://huggingface.co/datasets/YuSun-AI/ReasonMed)]|370,000|
@@ -73,7 +73,7 @@ Table of Contents:
 ### 3.2 Multimodal
 
 |**Data Name**|**Paper**|**Link**|**Quantity**|
-|:-:|:-:|:-:|:-:|
+|:-|:-:|:-:|:-:|
 |`PubMedVision`|[[arXiv](https://arxiv.org/abs/2406.19280)]|[[HF](https://huggingface.co/datasets/FreedomIntelligence/PubMedVision)]|1,294,062|
 |`Med-MAT`|[[arXiv](https://arxiv.org/abs/2412.20070)]|[[HF](https://huggingface.co/datasets/FreedomIntelligence/Med-MAT)]|2,360,000|
 |`MedTrinity`|[[arXiv](https://arxiv.org/abs/2408.02900)]|[[HF](https://huggingface.co/datasets/UCSC-VLAA/MedTrinity-25M)]|25,000,000|
@@ -87,7 +87,7 @@ Table of Contents:
 ## 4. Benchmarks
 
 |**Evaluation Framework**|**Code**|**Supported Benchmark**|
-|:-:|:-:|:-:|
+|:-|:-:|:-:|
 |`MedEvalKit`|[[Github](https://github.com/alibaba-damo-academy/MedEvalKit)]|**（1）Multimodal：**：`MMMU-Medical-test`, `MMMU-Medical-val`, `PMC_VQA`, `OmniMedVQA`, `IU XRAY`, `MedXpertQA-Multimodal`, `CheXpert Plus`, `MIMIC-CXR`, `VQA-RAD`, `SLAKE`, `PATH-VQA`, `MedFrameQA`；**（2）Text-only：**：`MedQA-USMLE`, `MedMCQA`, `PubMedQA`, `Medbullets-op4`, `Medbullets-op5`, `MedXpertQA-Text`, `SuperGPQA`, `HealthBench`, `CMB`, `CMExam`, `CMMLU`, `MedQA-MCMLE`；|
 |`MedBench`|[[Website](https://medbench.opencompass.org.cn/home)]|**Text-only：**：`Med-Exam`, `MedHC`, `MedMC`, `MedSpeQA`, `MedHG`, `MedDG`, `MedLitQA`, `IMCS-V2-MRG`, `DBMHG`, `CMB-Clin-extended`, `DDx-basic`, `DDx-advanced`, `MedTreat`, `CMeEE`, `CMeIE`, `CHIP-CDEE`, `CHIP-CDN`, `CHIP-CTC`, `SMDoc`, `MedSafety`, `DrugCA`, `CriID`|
 
