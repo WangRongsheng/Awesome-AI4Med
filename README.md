@@ -23,7 +23,19 @@ Table of Contents:
 
 |**Model Name**|**Paper**|**Model Weight**|**Data**|**Code**|
 |:-:|:-:|:-:|:-:|:-:|
-|HuatuoGPT|[[arXiv](https://arxiv.org/abs/2305.15075)]|[[HF (7B)](https://huggingface.co/FreedomIntelligence/HuatuoGPT-7B)]|[[HF](https://huggingface.co/datasets/FreedomIntelligence/HuatuoGPT-sft-data-v1)]|[[Github](https://github.com/FreedomIntelligence/HuatuoGPT)]|
+|`HuatuoGPT`|[[arXiv](https://arxiv.org/abs/2305.15075)]|[[HF (7B)](https://huggingface.co/FreedomIntelligence/HuatuoGPT-7B)]|[[HF](https://huggingface.co/datasets/FreedomIntelligence/HuatuoGPT-sft-data-v1)]|[[Github](https://github.com/FreedomIntelligence/HuatuoGPT)]|
+|`MMedLM`|[[arXiv](https://arxiv.org/abs/2402.13963)]|[[HF (8B)](https://huggingface.co/Henrychur/MMed-Llama-3-8B)]|[[HF](https://huggingface.co/datasets/Henrychur/MMedC)]|[[Github](https://github.com/MAGIC-AI4Med/MMedLM)]|
+|`PMC-LLaMA`|[[arXiv](https://arxiv.org/abs/2304.14454)]|[[HF (13B)](https://huggingface.co/axiong/PMC_LLaMA_13B)]|[[HF](https://github.com/allenai/s2orc)]|[[Github](https://github.com/chaoyi-wu/PMC-LLaMA)]|
+|`Med42-v2`|[[arXiv](https://arxiv.org/abs/2408.06142)]|[[HF (8B)](https://huggingface.co/m42-health/Llama3-Med42-8B)]|-|[[Github](https://github.com/m42-health/med42)]|
+|`OpenBioLLM`|-|[[HF (8B)](https://huggingface.co/aaditya/Llama3-OpenBioLLM-8B)]|-|-|
+|`UltraMedical`|[[arXiv](https://arxiv.org/abs/2406.03949)]|[[HF (8B)](https://huggingface.co/TsinghuaC3I/Llama-3-8B-UltraMedical)]|[[HF](https://huggingface.co/datasets/TsinghuaC3I/UltraMedical)]|[[Github](https://github.com/TsinghuaC3I/UltraMedical)]|
+|`HuatuoGPT-o1`|[[arXiv](https://arxiv.org/abs/2412.18925)]|[[HF (7B)](https://huggingface.co/FreedomIntelligence/HuatuoGPT-o1-7B)][[HF (8B)](https://huggingface.co/FreedomIntelligence/HuatuoGPT-o1-8B)][[HF (70B)](https://huggingface.co/FreedomIntelligence/HuatuoGPT-o1-70B)]|[[HF](https://huggingface.co/datasets/FreedomIntelligence/medical-o1-reasoning-SFT)]|[[Github](https://github.com/FreedomIntelligence/HuatuoGPT-o1)]|
+|`BioMistral`|[[arXiv](https://arxiv.org/abs/2402.10373)]|[[HF (7B)](https://huggingface.co/BioMistral/BioMistral-7B)]|-|[[Github](https://github.com/BioMistral/BioMistral)]|
+|`MediTron`|[[arXiv](https://arxiv.org/abs/2311.16079)]|[[HF (7B)](https://huggingface.co/epfl-llm/meditron-7b)]|[[HF](https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T)]|[[Github](https://github.com/epfLLM/meditron)]|
+|`MedGemma`|[[arXiv](https://arxiv.org/abs/2507.05201)]|[[HF (4B)](https://huggingface.co/google/medgemma-4b-it)]|-|[[Github](https://github.com/Google-Health/medgemma)]|
+
+
+
 
 <div align="right">
   <b><a href="#contents">↥ back to top</a></b>
