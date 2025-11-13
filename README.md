@@ -62,7 +62,7 @@ Table of Contents:
 
 |**Data Name**|**Paper**|**Link**|**Quantity**|
 |:-:|:-:|:-:|:-:|
-|`Huatuo-26M`|[[arXiv](https://arxiv.org/abs/2305.01526)]|[[HF](https://github.com/FreedomIntelligence/Huatuo-26M)]|26,000,000|
+|`Huatuo-26M`|[[arXiv](https://arxiv.org/abs/2305.01526)]|[[Github](https://github.com/FreedomIntelligence/Huatuo-26M)]|26,000,000|
 |`medical-o1-reasoning-SFT`|[[arXiv](https://arxiv.org/pdf/2412.18925)]|[[HF](https://huggingface.co/datasets/FreedomIntelligence/medical-o1-reasoning-SFT)]|25,000|
 |`ReasonMed`|[[arXiv](https://arxiv.org/abs/2506.09513)]|[[HF](https://huggingface.co/datasets/YuSun-AI/ReasonMed)]|370,000|
 
@@ -77,7 +77,8 @@ Table of Contents:
 |`PubMedVision`|[[arXiv](https://arxiv.org/abs/2406.19280)]|[[HF](https://huggingface.co/datasets/FreedomIntelligence/PubMedVision)]|1,294,062|
 |`Med-MAT`|[[arXiv](https://arxiv.org/abs/2412.20070)]|[[HF](https://huggingface.co/datasets/FreedomIntelligence/Med-MAT)]|2,360,000|
 |`MedTrinity`|[[arXiv](https://arxiv.org/abs/2408.02900)]|[[HF](https://huggingface.co/datasets/UCSC-VLAA/MedTrinity-25M)]|25,000,000|
-|`OmniMedVQA`|[[arXiv](https://arxiv.org/pdf/2408.03361)]|[[HF](https://openxlab.org.cn/datasets/GMAI/OmniMedVQA)]|118,010|
+|`OmniMedVQA`|[[arXiv](https://arxiv.org/pdf/2408.03361)]|[[OpenXLab](https://openxlab.org.cn/datasets/GMAI/OmniMedVQA)]|118,010|
+|`BioVFM`|[[arXiv](https://www.arxiv.org/abs/2505.09329)]|[[Github](https://github.com/JiarunLiu/BioVFM)]|21,000,000|
 
 <div align="right">
   <b><a href="#contents">↥ back to top</a></b>
