@@ -21,6 +21,9 @@ Table of Contents:
 
 ## 1. Medical LLMs
 
+> [!NOTE]
+> 📣 We extract these trending models from a large corpus of research papers, we do not specifically collect the most recent models!
+
 |**Model Name**|**Paper**|**Model Weight**|**Data**|**Code**|
 |:-|:-:|:-:|:-:|:-:|
 |`HuatuoGPT`|[[arXiv](https://arxiv.org/abs/2305.15075)]|[[HF (7B)](https://huggingface.co/FreedomIntelligence/HuatuoGPT-7B)]|[[HF](https://huggingface.co/datasets/FreedomIntelligence/HuatuoGPT-sft-data-v1)]|[[Github](https://github.com/FreedomIntelligence/HuatuoGPT)]|
