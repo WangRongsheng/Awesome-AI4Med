@@ -35,7 +35,6 @@ Table of Contents:
 |`HuatuoGPT-o1`|[[arXiv](https://arxiv.org/abs/2412.18925)]|[[HF (7B)](https://huggingface.co/FreedomIntelligence/HuatuoGPT-o1-7B)][[HF (8B)](https://huggingface.co/FreedomIntelligence/HuatuoGPT-o1-8B)][[HF (70B)](https://huggingface.co/FreedomIntelligence/HuatuoGPT-o1-70B)]|[[HF](https://huggingface.co/datasets/FreedomIntelligence/medical-o1-reasoning-SFT)]|[[Github](https://github.com/FreedomIntelligence/HuatuoGPT-o1)]|
 |`BioMistral`|[[arXiv](https://arxiv.org/abs/2402.10373)]|[[HF (7B)](https://huggingface.co/BioMistral/BioMistral-7B)]|-|[[Github](https://github.com/BioMistral/BioMistral)]|
 |`MediTron`|[[arXiv](https://arxiv.org/abs/2311.16079)]|[[HF (7B)](https://huggingface.co/epfl-llm/meditron-7b)]|[[HF](https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T)]|[[Github](https://github.com/epfLLM/meditron)]|
-|`MedGemma`|[[arXiv](https://arxiv.org/abs/2507.05201)]|[[HF (4B)](https://huggingface.co/google/medgemma-4b-it)]|-|[[Github](https://github.com/Google-Health/medgemma)]|
 |`Baichuan-M2`|[[arXiv](https://arxiv.org/abs/2509.02208)]|[[HF (32B)](https://huggingface.co/baichuan-inc/Baichuan-M2-32B)]|-|[[Github](https://github.com/baichuan-inc/Baichuan-M2-32B)]|
 |`Baichuan-M1`|[[arXiv](https://arxiv.org/abs/2502.12671)]|[[HF (14B)](https://huggingface.co/baichuan-inc/Baichuan-M1-14B-Instruct)]|-|[[Github](https://github.com/baichuan-inc/Baichuan-M1-14B)]|
 
@@ -54,6 +53,16 @@ Table of Contents:
 |`Lingshu`|[[arXiv](https://arxiv.org/abs/2506.07044)]|[[HF (7B)](https://huggingface.co/lingshu-medical-mllm/Lingshu-7B)][[HF 32B](https://huggingface.co/lingshu-medical-mllm/Lingshu-32B)]|-|-|
 |`LLaVA-Med`|[[arXiv](https://arxiv.org/abs/2306.00890)]|[[HF (7B)](https://huggingface.co/microsoft/llava-med-v1.5-mistral-7b)]|[[Github](https://github.com/microsoft/LLaVA-Med/tree/main/data)]|[[Github](https://github.com/microsoft/LLaVA-Med)]|
 |`BiMediX`|[[arXiv](https://arxiv.org/abs/2412.07769v2)]|[[HF (8B)](https://huggingface.co/MBZUAI/BiMediX2-8B)]|[[Github](https://github.com/microsoft/LLaVA-Med/tree/main/data)]|[[Github](https://github.com/mbzuai-oryx/BiMediX)]|
+|`Hulu-Med`|[[arXiv](https://arxiv.org/abs/2510.08668)]|[[HF (7B)](https://huggingface.co/ZJU-AI4H/Hulu-Med-7B)]||[[Github](https://github.com/ZJUI-AI4H/Hulu-Med)]|
+|`HealthGPT`|[[arXiv](https://arxiv.org/abs/2412.07769v2)]|[[HF (3.8B)](https://huggingface.co/lintw/HealthGPT-M3)]|[[HF](https://huggingface.co/datasets/lintw/VL-Health)]|[[Github](https://github.com/DCDmllm/HealthGPT)]|
+|`MedGemma`|[[arXiv](https://arxiv.org/abs/2507.05201)]|[[HF (4B)](https://huggingface.co/google/medgemma-4b-it)]|-|[[Github](https://github.com/Google-Health/medgemma)]|
+|`Med-R1`|[[arXiv](https://arxiv.org/abs/2503.13939)]|[[HF (2B)](https://huggingface.co/yuxianglai117/Med-R1)]|-|[[Github](https://github.com/Yuxiang-Lai117/Med-R1)]|
+|`BiomedGPT`|[[arXiv](https://arxiv.org/abs/2305.17100)]|[[HF (7B)](https://huggingface.co/PharMolix/BioMedGPT-LM-7B)]|[[Github](https://github.com/taokz/BiomedGPT/blob/main/datasets.md)]|[[Github](https://github.com/taokz/BiomedGPT)]|
+|`MedVLM-R1`|[[arXiv](https://arxiv.org/abs/2502.19634)]|[[HF (2B)](https://huggingface.co/JZPeterPan/MedVLM-R1)]|-|[[Github](https://github.com/JZPeterPan/MedVLM-R1)]|
+|`BiMediX2`|[[arXiv](https://arxiv.org/abs/2412.07769v2)]|[[HF (8B)](https://huggingface.co/MBZUAI/BiMediX2-8B)]|[[Github](https://github.com/mbzuai-oryx/BiMediX2/blob/main/scripts/README.md)]|[[Github](https://github.com/mbzuai-oryx/BiMediX2)]|
+
+
+
 
 <div align="right">
   <b><a href="#contents">↥ back to top</a></b>
