@@ -27,6 +27,8 @@ Table of Contents:
 |**Model Name**|**Paper**|**Model Weight**|**Data**|**Code**|
 |:-|:-:|:-:|:-:|:-:|
 |`HuatuoGPT`|[[arXiv](https://arxiv.org/abs/2305.15075)]|[[HF (7B)](https://huggingface.co/FreedomIntelligence/HuatuoGPT-7B)]|[[HF](https://huggingface.co/datasets/FreedomIntelligence/HuatuoGPT-sft-data-v1)]|[[Github](https://github.com/FreedomIntelligence/HuatuoGPT)]|
+|`Apollo`|[[arXiv](https://arxiv.org/abs/2403.03640)]|[[HF (7B)](https://huggingface.co/FreedomIntelligence/Apollo-7B)]|[[HF](https://huggingface.co/datasets/FreedomIntelligence/ApolloCorpus)]|[[Github](https://github.com/FreedomIntelligence/Apollo)]|
+|`HuatuoGPT-II`|[[arXiv](https://arxiv.org/abs/2311.09774)]|[[HF (7B)](https://huggingface.co/FreedomIntelligence/HuatuoGPT2-7B)]|[[HF (PT)](https://huggingface.co/datasets/FreedomIntelligence/HuatuoGPT2-Pretraining-Instruction)][[HF (SFT)](https://huggingface.co/datasets/FreedomIntelligence/HuatuoGPT2-SFT-GPT4-140K)]|[[Github](https://github.com/FreedomIntelligence/HuatuoGPT-II)]|
 |`MMedLM`|[[arXiv](https://arxiv.org/abs/2402.13963)]|[[HF (8B)](https://huggingface.co/Henrychur/MMed-Llama-3-8B)]|[[HF](https://huggingface.co/datasets/Henrychur/MMedC)]|[[Github](https://github.com/MAGIC-AI4Med/MMedLM)]|
 |`PMC-LLaMA`|[[arXiv](https://arxiv.org/abs/2304.14454)]|[[HF (13B)](https://huggingface.co/axiong/PMC_LLaMA_13B)]|[[HF](https://github.com/allenai/s2orc)]|[[Github](https://github.com/chaoyi-wu/PMC-LLaMA)]|
 |`Med42-v2`|[[arXiv](https://arxiv.org/abs/2408.06142)]|[[HF (8B)](https://huggingface.co/m42-health/Llama3-Med42-8B)]|-|[[Github](https://github.com/m42-health/med42)]|
@@ -37,6 +39,9 @@ Table of Contents:
 |`MediTron`|[[arXiv](https://arxiv.org/abs/2311.16079)]|[[HF (7B)](https://huggingface.co/epfl-llm/meditron-7b)]|[[HF](https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T)]|[[Github](https://github.com/epfLLM/meditron)]|
 |`Baichuan-M2`|[[arXiv](https://arxiv.org/abs/2509.02208)]|[[HF (32B)](https://huggingface.co/baichuan-inc/Baichuan-M2-32B)]|-|[[Github](https://github.com/baichuan-inc/Baichuan-M2-32B)]|
 |`Baichuan-M1`|[[arXiv](https://arxiv.org/abs/2502.12671)]|[[HF (14B)](https://huggingface.co/baichuan-inc/Baichuan-M1-14B-Instruct)]|-|[[Github](https://github.com/baichuan-inc/Baichuan-M1-14B)]|
+|`MedAlpaca`|[[arXiv](https://arxiv.org/abs/2304.08247)]|[[HF (7B)](https://huggingface.co/medalpaca/medalpaca-7b)]|[[Github](https://github.com/kbressem/medAlpaca/blob/main/DATA_DESCRIPTION.md)]|[[Github](https://github.com/kbressem/medAlpaca)]|
+|`ShizhenGPT`|[[arXiv](https://arxiv.org/abs/2508.14706)]|[[HF (7B)](https://huggingface.co/FreedomIntelligence/ShizhenGPT-7B-Omni)]|[[HF (PT)](https://huggingface.co/datasets/FreedomIntelligence/TCM-Pretrain-Data-ShizhenGPT)][[HF (SFT)](https://huggingface.co/datasets/FreedomIntelligence/TCM-Instruction-Tuning-ShizhenGPT)]|[[Github](https://github.com/FreedomIntelligence/ShizhenGPT)]|
+
 
 
 
